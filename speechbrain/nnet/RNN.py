@@ -957,10 +957,8 @@ class AttentionalRNNDecoder(nn.Module):
 
 class LiGRU(torch.nn.Module):
     """ This function implements a Light GRU (liGRU).
-
     LiGRU is single-gate GRU model based on batch-norm + relu
-    activations + recurrent dropout. 
-
+    activations + recurrent dropout.
     This is a custm RNN and to speed it up it must be compiled with
     the torch just-in-time compiler (jit) right before using it.
     You can compile it with:
