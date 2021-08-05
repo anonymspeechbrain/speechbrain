@@ -7,26 +7,16 @@ SpeechBrain supports both CPU and GPU computations. For most recipes, however, a
 
 We support pytorch >= 1.7 (https://pytorch.org/) and Python >= 3.7.
 
-## Install via PyPI
+## Install via PyPI (Please, do not do to not break anonimity)
 
-Once you have created your Python environment (see instructions below) you can simply type:
-
-```
-pip install speechbrain
-```
-
-Then you can then access SpeechBrain with:
-
-```
-import speechbrain as sb
-```
+Not reported to keep anonymity
 
 ## Install locally
 
 Once you have created your Python environment (see instructions below) you can simply type:
 
 ```
-git clone https://github.com/speechbrain/speechbrain.git
+git clone https://github.com/anonymspeechbrain/speechbrain
 cd speechbrain
 pip install -r requirements.txt
 pip install --editable .
@@ -50,7 +40,7 @@ pytest --doctest-modules speechbrain
 ## Operating Systems
 
 SpeechBrain supports Linux-based distributions and macOS. A solution for windows users can be found
-in this [GitHub issue](https://github.com/speechbrain/speechbrain/issues/512).
+in this GitHub issue.
 
 ## Anaconda and venv
 

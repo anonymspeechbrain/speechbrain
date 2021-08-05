@@ -20,7 +20,7 @@ SpeechBrain could be used for *research*, *academic*, *commercial*, *non-commerc
 Practically, development goes as follows:
 
 0. We use git and GitHub.
-1. Fork the speechbrain repository (https://github.com/speechbrain/speechbrain)
+1. Fork the speechbrain repository
 on GitHub under your own account.
     (This creates a copy of SpeechBrain under your account, and GitHub
     knows where it came from, and we typically call this "upstream".)
