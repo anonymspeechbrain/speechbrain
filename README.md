@@ -10,7 +10,7 @@ The goal is to create a **single**, **flexible**, and **user-friendly** toolkit 
 
 *SpeechBrain is currently in beta*.
 
-| **[Discourse](https://Anonymous.discourse.group)** | **[Tutorials](https://anonymspeechbrain.github.io/speechbrain.github.io/tutorial_basics.html)** | **[Website](https://anonymspeechbrain.github.io/speechbrain.github.io/)** | **[Documentation](https://speechbrain-anonym.readthedocs.io/)** | **[Contributing](https://speechbrain-anonym.readthedocs.io/en/latest/contributing.html)** | **[HuggingFace](https://huggingface.co/Anonymous)** |
+| **[Discourse](https://Anonymous.discourse.group)** | **[Tutorials](https://anonymspeechbrain.github.io/speechbrain.github.io/tutorial_basics.html)** | **[Website](https://anonymspeechbrain.github.io/speechbrain.github.io/)** | **[Documentation](https://speechbrain-anonym.readthedocs.io/)** | **[Contributing](https://speechbrain-anonym.readthedocs.io/en/latest/contributing.html)** | **HuggingFace** |
 
 # Key features
 
