@@ -1,5 +1,6 @@
 # The SpeechBrain Toolkit
 
+**This anonymized copy of the toolkit is created for revision only. It will be deleted afterward.**
 
 SpeechBrain is an **open-source** and **all-in-one** speech toolkit based on PyTorch.
 
