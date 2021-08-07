@@ -32,5 +32,5 @@ setup(
         "huggingface_hub",
     ],
     python_requires=">=3.7",
-    url="https://speechbrain.github.io/",
+    url="https://anonymspeechbrain.github.io/speechbrain.github.io/",
 )

@@ -148,7 +148,7 @@ As a community-based and open source project, SpeechBrain needs the help of its 
 
 Instead of a long and boring README, we prefer to provide you with different resources that can be used to learn how to customize SpeechBrain to adapt it to your needs:
 - General information can be found on the https://Anonymous.github.io
-- We offer many tutorials, you can start out from the https://Anonymous.github.io/tutorial_basics.html) about SpeechBrain basic functionalities and building blocks. We provide also more advanced tutorials (e.g SpeechBrain advanced, signal processing ...). You can browse them via the Tutorials drop down menu on [SpeechBrain website](https://speechbrain.github.io) in the upper right.
+- We offer many tutorials, you can start out from the https://Anonymous.github.io/tutorial_basics.html) about SpeechBrain basic functionalities and building blocks. We provide also more advanced tutorials (e.g SpeechBrain advanced, signal processing ...). You can browse them via the Tutorials drop down menu on [SpeechBrain website](https://anonymspeechbrain.github.io/speechbrain.github.io/) in the upper right.
 - Details on the SpeechBrain API, how to contribute, and the code are given in https://Anonymous.readthedocs.io/en/latest/index.html.
 
 # License
